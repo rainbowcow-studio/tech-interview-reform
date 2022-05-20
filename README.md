@@ -1,3 +1,5 @@
+# Tech Interview Reform
+
 ## Software engineer hiring is broken and it’s time to fix it.
 
 For years, the tech industry has settled on giving interviewees live coding challenges to evaluate their technical skill. Those who fail the challenge are rejected, and those who pass move on to potentially receive an offer to join the company. Unfortunately, coding challenges are an ineffective tool for measuring an individual's skill level and exclude entire classes of people from employment. **It's time to rethink the status quo.**
